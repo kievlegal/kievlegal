@@ -16,7 +16,21 @@
 
 <img align="center" alt="kiev-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
-<img align="right" alt="kiev-gif" height="100" width="110" src="https://i.ibb.co/wNgqGxKn/pet-1.gif" border="0">
+
+<img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/V0yrCMtH/boom.gif" border="0">
+
+<img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/8kcD80v/shake-gun.gif" border="0">
+
+<img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/RkJmPCXr/jam-1.gif" border="0">
+
+<img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/fd4fjfpx/clap.gif" border="0">
+
+
+
+
+
+
+
 </div>
 
 
