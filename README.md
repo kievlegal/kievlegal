@@ -25,12 +25,6 @@
 
 <img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/fd4fjfpx/clap.gif" border="0">
 
-
-
-
-
-
-
 </div>
 
 
