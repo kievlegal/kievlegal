@@ -21,8 +21,6 @@
 
 <img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/8kcD80v/shake-gun.gif" border="0">
 
-<img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/RkJmPCXr/jam-1.gif" border="0">
-
 <img align="right" alt="kiev-gif" height="60" width="70" src="https://i.ibb.co/fd4fjfpx/clap.gif" border="0">
 
 </div>
